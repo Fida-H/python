@@ -1,4 +1,4 @@
-Python in One Shot
+python one shot for beginner
 This video has been made with a lot of love & I hope you guys have an amazing programming journey :)
 Why to Use Python?
 Python can be used for :

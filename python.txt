@@ -1,0 +1,17 @@
+Python in One Shot
+This video has been made with a lot of love & I hope you guys have an amazing programming journey :)
+Why to Use Python?
+Python can be used for :
+1. Programming (for Placements/online contests/DSA)
+2. Development (using a backend framework called Django)
+3. Machine Learning / Data Science / Artificial Intelligence
+Websites built using Python include Google, Youtube, Instagram, Netflix, Uber & much
+more.
+What to Install?
+1. Python (https://www.python.org/)
+2. PyScripter (https://rb.gy/bvnn69 )
+3. PyCharm (https://www.jetbrains.com/pycharm/)
+Our First Python Program
+print("Hello World")
+A Key Point to know about Python
+- It is a case sensitive language
